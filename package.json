@@ -1,5 +1,5 @@
 {
-  "name": "father-and-son-component",
+  "name": "transfer-data-between-components",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "less-loader": "^11.1.0",
     "vue": "^2.6.14"
   },
   "devDependencies": {
